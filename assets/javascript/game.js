@@ -2,8 +2,8 @@
 // ==================================================================================================
 
 // Array of Word Options (all lowercase).
-var wordsList = ["jerome", "neena", "darion", "lou", "greg", "jordan",
-  "jasmine", "stephen", "jacob", "adam", "rui", "luis"];
+var wordsList = ["panthers", "chargers", "falcons", "saints", "browns", "steelers",
+  "redskins", "rams", "chiefs", "vikings"];
 
 // Computer selected solution will be held here.
 var chosenWord = "";
